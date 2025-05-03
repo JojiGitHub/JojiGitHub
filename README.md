@@ -2,7 +2,7 @@
 
 I'm Rohit, a high schooler interested in AI and its application to data science and neuroscience.
 
-### Current and Previous Research
+### Research
 - Designed a project based on the neuroscience principle of active inference as an application to autonomous navigation, finding that it was highly effective
 
 ### What I'm Learning Right Now
